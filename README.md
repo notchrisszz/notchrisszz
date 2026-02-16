@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🐕‍🦺 My name is Chris<br>🕷️ I'm currently learning about cybersecurity<br>👹 I'm looking forward to learn more programming
+🐕‍🦺 My name is Chris<br>🕷️ I'm currently learning about game development and art<br>👹 I'm looking forward to learn more programming, be better at art and make a videogame
 
 
 ## 🌐 Socials:
