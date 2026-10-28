@@ -1,6 +1,6 @@
-##Hi there! 👋
+## Hi there! 👋
 
-##💫 About Me:
+# 💫 About Me:
 
 🐕‍🦺 Hey! I'm Chris, a Computer Science student passionate about game development and digital art.
 
