@@ -1,6 +1,6 @@
-Hi there! 👋
+##Hi there! 👋
 
-💫 About Me:
+##💫 About Me:
 
 🐕‍🦺 Hey! I'm Chris, a Computer Science student passionate about game development and digital art.
 
@@ -11,6 +11,8 @@ Hi there! 👋
 🎨 Exploring digital art and improving my artistic skills to bring my game ideas to life and make my own comic.
 
 👹 My goal is to create and publish my own videogames, combining programming and art.
+
+🎥 You can also watch some of my YT videos on my channel. 
 
 🚀 Always learning, always creating!
 
