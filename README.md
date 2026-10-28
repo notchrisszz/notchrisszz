@@ -1,6 +1,18 @@
-## Hi there 👋
-# 💫 About Me:
-🐕‍🦺 My name is Chris<br>🕷️ I'm currently learning about game development and art<br>👹 I'm looking forward to learn more programming, be better at art and make a videogame
+Hi there! 👋
+
+💫 About Me:
+
+🐕‍🦺 Hey! I'm Chris, a Computer Science student passionate about game development and digital art.
+
+🎮 Currently learning game development with Godot Engine and working on my own game projects.
+
+💻 I enjoy programming, experimenting with new technologies, and turning ideas into something playable.
+
+🎨 Exploring digital art and improving my artistic skills to bring my game ideas to life and make my own comic.
+
+👹 My goal is to create and publish my own videogames, combining programming and art.
+
+🚀 Always learning, always creating!
 
 
 ## 🌐 Socials:
